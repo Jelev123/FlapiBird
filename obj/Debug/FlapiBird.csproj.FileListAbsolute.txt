@@ -1,0 +1,21 @@
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\bin\Debug\FlapiBird.exe.config
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\bin\Debug\FlapiBird.exe
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\bin\Debug\FlapiBird.pdb
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.csprojAssemblyReference.cache
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.FlappyBird.resources
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.Properties.Resources.resources
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.csproj.GenerateResource.cache
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.csproj.CoreCompileInputs.cache
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.exe
+C:\Users\HP 820 G3\Desktop\FlapiBird\FlapiBird\obj\Debug\FlapiBird.pdb
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\bin\Debug\FlapiBird.exe.config
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\bin\Debug\FlapiBird.exe
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\bin\Debug\FlapiBird.pdb
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.FlappyBird.resources
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.Properties.Resources.resources
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.exe
+C:\Users\Owner\Desktop\FlappyBird-Game-main\FlappyBird-Game-main\FlappyBird\FlapiBird\obj\Debug\FlapiBird.pdb
