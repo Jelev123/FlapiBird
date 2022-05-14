@@ -57,17 +57,17 @@ namespace FlapiBird
 
             if (score > 5)
             {
-                pipeSpeed = 13;
+                pipeSpeed= 13;
             }
             if (score >= 25)
             {
                 pipeSpeed = 15;
             }
-            if (score > 35)
-            {
+             if (score > 35)
+            { 
                 pipeSpeed = 18;
             }
-            if (score > 50)
+            if (score > 50 )
             {
                 pipeSpeed = 23;
             }
@@ -75,7 +75,7 @@ namespace FlapiBird
 
 
             if (bird.Bounds.IntersectsWith(topPipe.Bounds) || bird.Bounds.IntersectsWith(bottonPipe.Bounds) || bird.Bounds.IntersectsWith(ground.Bounds) ||
-                bird.Top < -25)
+                bird.Top < - 25)
             {
                 EndGame();
             }
@@ -101,10 +101,10 @@ namespace FlapiBird
         public void EndGame()
         {
             gameTimer.Stop();
-            ScoreText.Text += " " + " " + "Game Over";
-
+            ScoreText.Text += " " + " " +  "Game Over";
+           
         }
 
-
+      
     }
 }
