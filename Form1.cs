@@ -64,6 +64,7 @@
                 pipeSpeed = 23;
             }
 
+
             if (bird.Bounds.IntersectsWith(topPipe.Bounds) || bird.Bounds.IntersectsWith(bottonPipe.Bounds) || bird.Bounds.IntersectsWith(ground.Bounds) ||
                 bird.Top < -25)
             {
